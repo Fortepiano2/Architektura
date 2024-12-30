@@ -1,0 +1,3 @@
+C:/Users/patry/Desktop/programy w c/Program_na_architekture/cmake-build-release/CMakeFiles/Program_na_architekture.dir
+C:/Users/patry/Desktop/programy w c/Program_na_architekture/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/patry/Desktop/programy w c/Program_na_architekture/cmake-build-release/CMakeFiles/rebuild_cache.dir
